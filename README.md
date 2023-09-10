@@ -52,4 +52,4 @@ Blender 3.2 Glass with Ice 3D Tutorial | Polygon Runway: https://www.youtube.com
 Blender Speed Modeling Lowpoly Tree in 5 MINUTES in Blender 3d | Low poly 3d Modeling | Lowpoly Tree: https://www.youtube.com/watch?v=jgaaNmplML4&ab_channel=brainchildpl
 THIRD PERSON MOVEMENT in Unity: https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys
 Video background music: GODDESS OF VICTORY: NIKKE OST - Para-DICE - Hero Road Theme (Extended): https://www.youtube.com/watch?v=daB4npFRL2o&list=PL6vhLV1hjE9E6X1ynPiznccudMTAVHj7J&index=50&ab_channel=deilost
-![image](https://github.com/lenafwu/comp253-assets-for-game-developers-final-project/assets/113751598/5e803e3b-393e-4845-afa7-e7e5af81416d)
+
